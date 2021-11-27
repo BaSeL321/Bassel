@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is a project for desplaying database in html files.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MySql",
+    "Html",
+    "Css",
+    "NodeJS",
+    "Bootstrap",
+    "JS",
+    "MySQL"
+  ],
+  "author": "Bassel Emad",
+  "license": "ISC"
+}
